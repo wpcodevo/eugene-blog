@@ -27,7 +27,11 @@ const Home: NextPage = () => {
           <button
             className='bg-ct-read-600 outline-none border-black border-2 sm:text-3xl font-medium rounded-sm sm:px-10 px-7 py-3 text-white
         hover:bg-ct-dark-600'
-            onClick={() => router.replace('https://www.billzhealthtips.com/')}
+            onClick={() =>
+              router.replace(
+                'https://www.billzhealthtips.com/2022/06/stroke-treatment-in-ghana_22.html'
+              )
+            }
           >
             CLICK HERE
           </button>
