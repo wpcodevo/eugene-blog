@@ -29,7 +29,7 @@ const Home: NextPage = () => {
         hover:bg-ct-dark-600'
             onClick={() =>
               router.replace(
-                'https://www.billzhealthtips.com/2022/06/stroke-treatment-in-ghana_22.html'
+                'https://www.billzhealthtips.com/2022/07/stroke-treatment-in-ghana-edited.html'
               )
             }
           >
